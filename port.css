@@ -1,0 +1,15 @@
+#nav{
+    background-color: black;
+    color: white;
+    position: sticky;
+
+}
+#nav b:hover{
+    color: orangered;
+    
+}
+.card_img{
+    border-radius: 50%;
+    width: 500px;
+}
+
